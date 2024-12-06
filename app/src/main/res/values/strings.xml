@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+    <string name="Num0">0</string>
+    <string name="Num1">1</string>
+    <string name="Num2">2</string>
+    <string name="Num3">3</string>
+    <string name="Num4">4</string>
+    <string name="Num5">5</string>
+    <string name="Num6">6</string>
+    <string name="Num7">7</string>
+    <string name="Num8">8</string>
+    <string name="Num9">9</string>
+    <string name="C">c</string>
+    <string name="Plus">+</string>
+    <string name="Minus">-</string>
+    <string name="x">x</string>
+    <string name="Divide">/</string>
+    <string name="Point">,</string>
+    <string name="Equal">=</string>
+    <string name="Null">null</string>
+</resources>
